@@ -1,0 +1,7 @@
+D:\C-Sharp\FirstCode\bin\Debug\FirstCode.exe.config
+D:\C-Sharp\FirstCode\bin\Debug\FirstCode.exe
+D:\C-Sharp\FirstCode\bin\Debug\FirstCode.pdb
+D:\C-Sharp\FirstCode\obj\Debug\FirstCode.csproj.AssemblyReference.cache
+D:\C-Sharp\FirstCode\obj\Debug\FirstCode.csproj.CoreCompileInputs.cache
+D:\C-Sharp\FirstCode\obj\Debug\FirstCode.exe
+D:\C-Sharp\FirstCode\obj\Debug\FirstCode.pdb
