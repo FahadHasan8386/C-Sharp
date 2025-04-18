@@ -1,0 +1,2 @@
+D:\C-Sharp\ConsoleApp1\obj\Release\ConsoleApp1.csproj.AssemblyReference.cache
+D:\C-Sharp\ConsoleApp1\obj\Release\ConsoleApp1.csproj.CoreCompileInputs.cache
