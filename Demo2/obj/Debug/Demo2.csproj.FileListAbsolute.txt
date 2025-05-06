@@ -1,0 +1,7 @@
+D:\C-Sharp\Demo2\bin\Debug\Demo2.exe.config
+D:\C-Sharp\Demo2\bin\Debug\Demo2.exe
+D:\C-Sharp\Demo2\bin\Debug\Demo2.pdb
+D:\C-Sharp\Demo2\obj\Debug\Demo2.csproj.AssemblyReference.cache
+D:\C-Sharp\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Demo2\obj\Debug\Demo2.exe
+D:\C-Sharp\Demo2\obj\Debug\Demo2.pdb
