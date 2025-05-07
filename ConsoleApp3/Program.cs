@@ -10,23 +10,17 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            DateFormat df1 = new DateFormat(1, 5, 2023);
-            DateFormat df2 = new DateFormat(15, 8, 2024);
+            // Polymorphic object creation
+            Course course1 = new Diploma(201, "Diploma in Cybersecurity", new DateFormat(10, 6, 2025), 120, 4, 60);
+            Course course2 = new Professional(202, "Professional in Data Science", new DateFormat(1, 9, 2025), 100, false, 4500);
 
-            
-            Course c = new Course(101, "Basic C#", df1, 150);
-            Console.WriteLine("---- Course Info ----");
-            c.ShowInfo();
+            // Calling overridden methods polymorphically
+            Console.WriteLine("---- Course 1 Info ----");
+            course1.ShowInfo();  // Will call Diploma's ShowInfo()
 
-            
-            Diploma d = new Diploma(102, "Diploma in AI", df2, 100, 3, 45);
-            Console.WriteLine("---- Diploma Info ----");
-            d.ShowInfo();
+            Console.WriteLine("---- Course 2 Info ----");
+            course2.ShowInfo();  // Will call Professional's ShowInfo()
 
-            
-            Professional p = new Professional(103, " Cloud Computing", df2, 110, true, 5000);
-            Console.WriteLine("---- Professional Info ----");
-            p.ShowInfo();
         }
     }
 }

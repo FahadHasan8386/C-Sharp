@@ -21,9 +21,8 @@ namespace ConsoleApp3
 
         internal void DayPrint()
         {
-            Console.WriteLine($"Day: {this.day}");
-            Console.WriteLine($"Month: {this.month}");
-            Console.WriteLine($"Year: {this.year}");
+            Console.WriteLine($"Day: {this.day}, Month: {this.month}, Year: {this.year}");
+
         }
     }
 
